@@ -148,3 +148,5 @@ export const CartProvider = ({ children }: ChildrenType) => {
 };
 
 export default CartContext;
+
+console.log('^_^');
